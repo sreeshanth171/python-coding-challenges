@@ -10,6 +10,7 @@ This repository contains my weekly Python coding challenge solutions.
 
 - ✅ Week 01 – Arithmetic Operations
 - ✅ Week 02 – Sum of Even Numbers
+- ✅ Week 03 – Stone Paper Scissor Game
 
 ## Goal
 
